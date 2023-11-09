@@ -187,3 +187,7 @@ sm64
 ├── textures: skybox and generic texture data
 └── tools: build tools
 ```
+
+## Building
+Should look like this when building or somewhat like (Ubuntu)
+![Screenshot 2023-11-09 132729](https://github.com/GManTheMarioGuy/projectgmann/assets/123761856/b6952238-bd09-48fd-b2f8-fe24a4f1d171)
